@@ -1,0 +1,14 @@
+[tack]
+recomposable = true
+
+[shorturls]
+gh = "github:{path}"
+
+[all_follow]
+nixpkgs = "nixpkgs"
+
+[inputs.nixpkgs]
+url = "gh:nixos/nixpkgs/nixpkgs-unstable"
+
+[inputs.fenix]
+url = "gh:nix-community/fenix"

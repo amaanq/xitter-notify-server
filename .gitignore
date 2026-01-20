@@ -1,0 +1,15 @@
+*
+
+!.editorconfig
+!.gitignore
+!.rustfmt.toml
+!.taplo.toml
+!Cargo.lock
+!Cargo.toml
+!flake.nix
+!README.md
+
+!src/
+!src/**
+!.tack/
+!.tack/**
